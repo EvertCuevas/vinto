@@ -1,25 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Saludar from "./components/Saludar"
+
+import Index from "./components/Index"
 
 function App() {
-  const user = {
-    nombre: "Jose Ignacio",
-    edad: 21,
-    color:"azul"
-  }
-  
-  const saludarFn = (name) => {
-    console.log("Hola " + name);
-  }
-
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         
-        <Saludar userInfo={user} saludarFn={saludarFn}/>
-      </header>
+        
+        <Index/>
+      
     </div>
   );
 }
