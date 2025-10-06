@@ -1824,8 +1824,8 @@ hr {
   -webkit-box-pack: justify;
   -webkit-box-align: center;
   align-items: center;
-  margin-bottom: 30px;
-  padding-left: 30px;
+  margin-bottom: 5px;
+  padding-left: 50px;
 }
 
 .main-header .main-box:before{
@@ -1835,7 +1835,7 @@ hr {
   height: 100%;
   background: #f5f5f5;
   content: "";
-  border-radius: 50px;
+  border-radius: 20px;
   border: 1px solid #dddde1;
 }
 
@@ -1862,7 +1862,7 @@ hr {
 .main-header .logo {
   position: relative;
   z-index: 9;
-  padding: 15px 0;
+  padding: 10px 0;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
 }
@@ -1895,7 +1895,7 @@ hr {
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
-  align-items: center;
+  align-items: left;
 }
 
 .main-menu .navigation > li {
@@ -2014,6 +2014,7 @@ hr {
   color: #4E8787;
   white-space: nowrap;
   text-transform: capitalize;
+  text-align: left;
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -2059,7 +2060,8 @@ hr {
   font-weight: 600;
   font-size: 16px;
   line-height: 20px;
-  color: #363636;
+  color: #4E8787;
+  text-align: left;
   white-space: nowrap;
   text-transform: capitalize;
   -webkit-transition: all 0.3s ease;
@@ -2578,8 +2580,8 @@ hr {
   width: 100%;
   padding: 0px 0px;
   z-index: 99;
-  background: rgba(255, 255, 255, 0.952941);
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.10);
+  background: rgba(255, 255, 255, 0.945);
+  box-shadow: 0px 1px 10px #A96BA795;
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
 }
@@ -2638,7 +2640,7 @@ hr {
 }
 
 .mobile-header .logo img {
-  max-height: 50px;
+  max-height: 100px;
 }
 
 .mobile-header .nav-outer {
@@ -3198,6 +3200,7 @@ hr {
   font-size: 44px;
   line-height: 1.2em;
   font-weight: 700;
+  color:#A96BA7;
 }
 
 .sec-title .text,
@@ -3870,7 +3873,7 @@ hr {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #1370b5;
+  background-color: #A96BA7;
   content: "";
   display: none;
 }
@@ -3878,11 +3881,13 @@ hr {
 .feature-block{
   position: relative;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .feature-block .inner-box{
   position: relative;
-  padding: 45px 40px;
+  padding: 10px 5px;
+  border-radius: 12px;
   background-color: #ffffff;
   background-image: url(../images/icons/pattern-1.png);
   background-repeat: no-repeat;
@@ -3898,7 +3903,7 @@ hr {
 }
 
 .feature-block .inner-box:hover{
-  background-color: #1370b5;
+  background-color: #74C3C3;
   transform: translateY(-20px);
   box-shadow: 0 10px 30px rgba(0,0,0,.20);
 }
@@ -3911,7 +3916,7 @@ hr {
   right: -100px;
   top: -100px;
   border-radius: 50%;
-  background-color: #ffffff;
+  background-color: #A96BA7;
   z-index: 9;
   transform: scale(0);
   content: "";
@@ -3935,7 +3940,7 @@ hr {
   display: inline-block;
   font-size: 64px;
   line-height: 1em;
-  color: #1370b5;
+  color: #4E8787;
   margin-bottom: 20px;
   -webkit-transition: all 300ms ease;
   -moz-transition: all 300ms ease;
@@ -4333,7 +4338,7 @@ About Section
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  color: #1370b5;
+  color: #A96BA7;
   text-align: center;
   background-color: #ffffff;
   line-height: 100px;
@@ -5010,7 +5015,7 @@ About Section Four
   background-color: #ffffff;
   box-shadow: 0 10px 20px rgba(0,0,0,0.10);
   transform: translateY(-20px);
-  border-bottom: 4px solid #1370b5;
+  border-bottom: 4px solid #A96BA7;
 }
 
 .service-block .icon{
@@ -5020,7 +5025,7 @@ About Section Four
   width: 100px;
   background-color: #ffffff;
   font-size: 42px;
-  color: #1370b5;
+  color: #4E8787;
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
@@ -10476,7 +10481,7 @@ form .response .text-info{
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: #152858;
+  background-color: #4E8787;
   opacity: .95;
   content: "";
 }
@@ -10814,7 +10819,7 @@ form .response .text-info{
 .main-footer .footer-bottom{
   position: relative;
   width: 100%;
-  background-color: #1370b5;
+  background-color: #A96BA7;
 }
 
 .main-footer .footer-bottom:before{
@@ -13635,7 +13640,7 @@ Sidebar Page Container
 
 .rtl .main-header .main-box:before{
   right: 0;
-  left: 60px;
+  left: 30px;
 }
 
 .rtl .main-header .theme-btn{
