@@ -239,9 +239,14 @@ function Index(){
                           <li><a href="login.html">Login</a></li>
                         </ul>
                       </li>
+                      
 
                       <li><a href="contact.html">ENLACES</a></li>
+                      <li>
+                        <button className="theme-btn btn-style-one"><span className="btn-title">Cita Médica</span></button>
+                      </li>
                     </ul>
+                    
                   </nav>
                   {/* Main Menu End */}
 
