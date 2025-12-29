@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 
-function Index(){
+function Pie(){
     return(
         <Fragment>
                         
@@ -252,4 +252,4 @@ function Index(){
     )
 }
 
-export default Index;
+export default Pie;
