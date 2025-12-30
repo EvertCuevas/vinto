@@ -90,11 +90,7 @@ function Carrusel() {
                 <span className="icon flaticon-doctor" />
                 <h4><a href="/">EXPERIENCIA</a></h4>
               </div>
-            </div>
-
-            <div className="feature-block-1">
-                aesdfsdf
-            </div>      
+            </div>    
           </div>
         </div>
       </section>

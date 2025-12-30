@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
 
-function Index(){
+function Testimonio(){
     return(
-        <Fragment>
-  <section className="testimonial-section">
+    <Fragment>
+    <section className="testimonial-section">
       <div className="auto-container">
 
         {/* Sec Title */}
@@ -74,4 +74,4 @@ function Index(){
     )
 }
 
-export default Index;
+export default Testimonio;

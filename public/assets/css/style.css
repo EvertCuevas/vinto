@@ -7964,11 +7964,11 @@ Portfolio Section
 
 .fun-fact-section-two{
   position: relative;
-  background-color: #ffffff;
+  background-color: rgba(91, 155, 213, 0.6);
   background-image: url(../images/icons/pattern-4.png);
   background-repeat: no-repeat;
   background-position: center;
-  padding: 50px 0 20px;
+  padding: 20px 0 0px;
   box-shadow: 0 0 30px rgba(0,0,0,0.06);
   z-index: 1;
 }
@@ -8001,10 +8001,10 @@ Portfolio Section
 .fun-fact-section-two .count-box .counter-title{
   position: relative;
   display: block;
-  font-size:16px;
+  font-size:24px;
   line-height: 24px;
   font-weight:600;
-  color:#666666;
+  color:#254993;
   margin-bottom: 10px;
   -webkit-transition: all 300ms ease;
   -moz-transition: all 300ms ease;
@@ -10482,7 +10482,7 @@ form .response .text-info{
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding: 120px 0 70px;
+  padding: 40px 0 10px;
 }
 
 .main-footer .widgets-section:before{
@@ -10492,7 +10492,7 @@ form .response .text-info{
   height: 100%;
   width: 100%;
   background-color: #254993;
-  opacity: .95;
+  opacity: .75;
   content: "";
 }
 
@@ -10552,7 +10552,7 @@ form .response .text-info{
 
 .main-footer .logo{
   position:relative;  
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .main-footer .footer-logo figure{
@@ -10562,6 +10562,7 @@ form .response .text-info{
 .main-footer .footer-logo img{
   display:block;
   max-width:100%; 
+  
 }
 
 .main-footer .about-widget .text{
@@ -10570,7 +10571,7 @@ form .response .text-info{
 }
 
 .main-footer .about-widget .text p{
-  font-size: 14px;
+  font-size: 18px;
   line-height: 30px;
   color: #ffffff;
   font-weight: 400;

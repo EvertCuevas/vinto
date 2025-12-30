@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 
-function Saludar(){
+function Historia(){
     return(
     <Fragment>
 
@@ -81,4 +81,4 @@ function Saludar(){
     )
 }
 
-export default Saludar;
+export default Historia;
