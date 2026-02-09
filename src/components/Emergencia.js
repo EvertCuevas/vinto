@@ -29,8 +29,8 @@ function Emergencia(){
                         EMERGENCIAS
                     </span>
                     <br></br>
-                    <h4 className="counter-title"   style={{ color:"#254993", fontSize:"30px" }}>(+591) 7845698</h4>
-                    <h4 className="counter-title"   style={{ color:"#254993", fontSize:"30px" }}>(+591) 7845698</h4>
+                    <h4 className="counter-title"   style={{ color:"#254993", fontSize:"30px" }}>(+591) 61623600</h4>
+                    <h4 className="counter-title"   style={{ color:"#254993", fontSize:"30px" }}>(+591) 62662002</h4>
                     </div>
                 </div>
                 {/* Column */}

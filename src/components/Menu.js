@@ -13,8 +13,8 @@ function Menu(){
               <div className="inner-container">
                 <div className="top-left">
                   <ul className="contact-list clearfix">
-                    <li><i className="flaticon-hospital-1"></i>Av. Villazon Km. 3 1/2, c/Alamos y Progreso</li>
-                    <li><i className="flaticon-phone"></i>4219185 - 76925865</li>
+                    <li><i className="flaticon-hospital-1"></i>Sacaba - Zona Curubamba Centro</li>
+                    <li><i className="flaticon-phone"></i>4019250 - 4257554 - 61623600 - 62662002</li>
                   </ul>
                 </div>
                 <div className="top-right">

@@ -41,7 +41,7 @@ function Historia(){
 
               <div className="video-link">
                 <a
-                  href="https://www.youtube.com/watch?v=4UvS3k8D4rs"
+                  href="https://www.youtube.com/watch?v=1uhMg24dVfE"
                   className="play-btn lightbox-image"
                   data-fancybox="images"
                 >
