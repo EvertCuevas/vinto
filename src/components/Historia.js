@@ -14,22 +14,18 @@ function Historia(){
               <div className="sec-title">
 
                 <h2 className="text-reveal-anim">
-                  Un poco de Nuestra Historia <br />
-                  Hospital Maria Esperanza.
+                  Hospital Maria Esperanza<br />
                 </h2>
+                <h5 className="text-reveal-anim">
+                  Un sueño que comenzó con un latido de Esperanza
+                </h5>
 
                 <span className="divider"></span>
-
-                <p>
-                  Fecha de fundación
-                </p>
-                <p>
-                  Diciembre 8 del 2016
-                </p>
                 <p>                  
-                  Iniciamos con el Centro de Hemodiálisis, pero este año implementamos más áreas como Neumología, 
-                  Medicina del Sueno, Medicina Interna, Laboratorios y muy pronto iniciaremos con Imagenología y Farmacia.
-                  Estamos en proceso de adquisición de equipos de última tecnología para el área de imagenología.
+                  El 8 de diciembre de 2016, Nació el Centro de Hemodiálisis María Esperanza. Con el objetivo de brindar la mejor atención a nuestros pacientes con insuficiencia renal crónica.
+                  De igual forma en la zona de Curubamba Centro, Sacaba, Se inicio con el proyecto Esperanza, lo que hoy es un hospital que comenzó siendo un sueño
+                  pequeño pero profundamente humano, con el sentimiento de devolver esperanza y calidad de vida a pacientes, donde sembramos la semilla de un sueño más grande.
+                  Y es un dia 02 de febrero de 2026 que abrimos puertas pero no solo inauguramos un servicio médico, mas por el contrario brindamos esperanza.
                 </p>
               </div>
             </div>

@@ -19,7 +19,7 @@ function Menu(){
                 </div>
                 <div className="top-right">
                   <ul className="social-icon-one">
-                    <li><a href="/"><span className="fab fa-facebook-f"></span></a></li>
+                    <li><a href="https://www.facebook.com/hospitalmariaesperanza"><span className="fab fa-facebook-f"></span></a></li>
                     <li><a href="/"><span className="fab fa-twitter"></span></a></li>
                     <li><a href="/"><span className="fab fa-skype"></span></a></li>
                     <li><a href="/"><span className="fab fa-linkedin-in"></span></a></li>
@@ -57,6 +57,7 @@ function Menu(){
                       <li className="dropdown">
                         <span>NOSOTROS</span>
                         <ul>
+                          {/*
                           <li><a href="about-us.html">Nosotros</a></li>
                           <li><a href="services.html">Historia</a></li>
                           <li><a href="services.html">Directorio</a></li>
@@ -65,20 +66,24 @@ function Menu(){
                           <li><a href="coming-soon.html">Coming Soon</a></li>
                           <li><a href="error-page.html">Error 404</a></li>
                           <li><a href="terms-and-condition.html">Terms and Condition</a></li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>ESPECIALIDADES</span>
                         <ul>
+                          {/*
                           <li><a href="doctors.html">Doctores</a></li>
                           <li><a href="doctor-detail.html">Doctor Detail</a></li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>SERVICIOS</span>
                         <ul>
+                          {/*
                           <li><a href="departments.html">Servicios</a></li>
                           <li><a href="department-detail.html">Cardiology</a></li>
                           <li><a href="department-detail.html">Neurology</a></li>
@@ -87,12 +92,14 @@ function Menu(){
                           <li><a href="department-detail.html">Pediatrical</a></li>
                           <li><a href="department-detail.html">Laboratory</a></li>
                           <li><a href="department-detail.html">Department Detail</a></li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>NOTICIAS</span>
                         <ul>
+                          {/*
                           <li><a href="blog-standard.html">Standard</a></li>
                           <li><a href="blog-checkboard.html">Checkerboard</a></li>
                           <li><a href="blog-masonry.html">Masonry</a></li>
@@ -110,17 +117,20 @@ function Menu(){
                               <li><a href="blog-post-video.html">Video Post</a></li>
                             </ul>
                           </li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>CONTACTO</span>
                         <ul>
+                          {/*
                           <li><a href="shop.html">Shop</a></li>
                           <li><a href="shop-single.html">Shop Single</a></li>
                           <li><a href="shopping-cart.html">Shopping Cart</a></li>
                           <li><a href="checkout.html">Checkout</a></li>
                           <li><a href="login.html">Login</a></li>
+                          */}
                         </ul>
                       </li>
 
@@ -165,6 +175,7 @@ function Menu(){
                       <li className="dropdown">
                         <span>NOSOTROS</span>
                         <ul>
+                          {/*
                           <li><a href="about-us.html">Nosotros</a></li>
                           <li><a href="services.html">Historia</a></li>
                           <li><a href="services.html">Directorio</a></li>
@@ -173,20 +184,25 @@ function Menu(){
                           <li><a href="coming-soon.html">Coming Soon</a></li>
                           <li><a href="error-page.html">Error 404</a></li>
                           <li><a href="terms-and-condition.html">Terms and Condition</a></li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>ESPECIALIDADES</span>
                         <ul>
+                          {/*
                           <li><a href="doctors.html">Doctores</a></li>
                           <li><a href="doctor-detail.html">Doctor Detail</a></li>
+                          
+                              */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>SERVICIOS</span>
                         <ul>
+                        {/*
                           <li><a href="departments.html">Servicios</a></li>
                           <li><a href="department-detail.html">Cardiology</a></li>
                           <li><a href="department-detail.html">Neurology</a></li>
@@ -195,12 +211,14 @@ function Menu(){
                           <li><a href="department-detail.html">Pediatrical</a></li>
                           <li><a href="department-detail.html">Laboratory</a></li>
                           <li><a href="department-detail.html">Department Detail</a></li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>NOTICIAS</span>
                         <ul>
+                          {/*
                           <li><a href="blog-standard.html">Standard</a></li>
                           <li><a href="blog-checkboard.html">Checkerboard</a></li>
                           <li><a href="blog-masonry.html">Masonry</a></li>
@@ -218,17 +236,20 @@ function Menu(){
                               <li><a href="blog-post-video.html">Video Post</a></li>
                             </ul>
                           </li>
+                          */}
                         </ul>
                       </li>
 
                       <li className="dropdown">
                         <span>CONTACTO</span>
                         <ul>
+                          {/*
                           <li><a href="shop.html">Shop</a></li>
                           <li><a href="shop-single.html">Shop Single</a></li>
                           <li><a href="shopping-cart.html">Shopping Cart</a></li>
                           <li><a href="checkout.html">Checkout</a></li>
                           <li><a href="login.html">Login</a></li>
+                          */}
                         </ul>
                       </li>
                       
