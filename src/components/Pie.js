@@ -8,7 +8,7 @@ function Pie(){
         {/* Widgets Section*/}
         <div
           className="widgets-section"
-          style={{ backgroundImage: "url(assets/images/background/7.jpg)" }}
+          style={{ backgroundImage: "url(assets/images/resource/seleccionados/fondo25.png)" }}
         >
         <div className="auto-container">
           <div className="row">

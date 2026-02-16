@@ -47,14 +47,14 @@ function Historia(){
 
               <figure className="image-1">
                 <img
-                  src="assets/images/resource/image-1.png"
+                  src="assets/images/resource/seleccionados/Doc2.png"
                   alt="Medical Care"
                 />
               </figure>
 
               <figure className="image-2">
                 <img
-                  src="assets/images/resource/image-2.png"
+                  src="assets/images/resource/seleccionados/Doc.png"
                   alt="Medical Team"
                 />
               </figure>
@@ -62,7 +62,7 @@ function Historia(){
               <figure className="image-3">
                 <span className="hex"></span>
                 <img
-                  src="assets/images/resource/image-3.png"
+                  src="assets/images/resource/seleccionados/Enfermeras.png"
                   alt="Hospital"
                 />
               </figure>
